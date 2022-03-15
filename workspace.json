@@ -1,4 +1,8 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "eph": "apps/eph",
+    "eph-e2e": "apps/eph-e2e",
+    "utility": "libs/utility"
+  }
 }
